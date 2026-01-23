@@ -1,0 +1,39 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <style>
+      h2 {color: tomato;}
+      h1 {color: red; text-align: center;}
+      td {padding: 20;}
+    </style>
+  </head>
+  <body> 
+    <h1 style="color:tomato; text-align:center;"> GIỚI THIỆU NGÀNH NGHỀ </h1>
+    <table>
+      <tr>
+        <td width="30%" style="text-align: center; vertical-align: top;">
+          <img src="../images/anh" width="250" height="270">
+        </td>
+        <td>
+           Ngành nghề: Quản trị sự kiện
+    <h2 style ="color:tomato;"> Sơ lược  </h2>
+        Quản trị sự kiện (Event Management) là ngành học và lĩnh vực chuyên môn tập trung vào việc lập kế hoạch, tổ chức, thực hiện, giám sát toàn bộ quy trình của các loại hình sự kiện (hội nghị, lễ hội, tiệc cưới, ra mắt sản phẩm, sự kiện văn hóa, thể thao...) để đạt được mục tiêu đề ra, bao gồm cả quản lý ngân sách, nhân sự, marketing, xử lý rủi ro và tạo trải nghiệm cho khách hàng. 
+    <h2 style ="color:tomato;"> Yêu cầu </h2>
+      <ol>
+        <li> Sáng tạo, năng động, chịu áp lực cao, sức khỏe tốt. </li>
+        Kỹ năng giao tiếp, đàm phán, làm việc nhóm, giải quyết vấn dêd.
+        Khả năng lập kế hoạch, quản lý thời gian và ngân sách.
+        Kiến thức về marketing, truyền thông, quan hệ công chúng. 
+      </ol>
+    <h2 style ="color:tomato;"> Các hoạt động chính </h2>
+ 
+    <h2 style ="color:tomato;"> Dự định tương lai trong 5 năm tới 📚 </h2>
+     Đậu và học đại học.
+     Tìm cơ hội thử việc.
+     Học thêm ngôn ngữ.
+        </td>
+      </tr>
+    </table>
+    
+  </body>
+</html>
