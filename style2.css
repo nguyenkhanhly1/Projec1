@@ -6,6 +6,8 @@
 .header {
   flex: 15%;
   background-color: lightgray;
+  background: url ("images/banner.png") center / 100%;
+  aspect-ratio: 6/1;
 }
 .menu {
   flex: 5%;
@@ -16,7 +18,7 @@
 .menu a{
   padding: 15px 20px;
 }
-.menu hover{
+.menu a: hover{
   background-color: lightgray;
   color: black;
 }
