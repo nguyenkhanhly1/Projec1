@@ -5,7 +5,6 @@
 }
 .header {
   flex: 15%;
-  background-color: lightgray;
   background: url ("images/de323270-1037-47cd-bf9c-5b61d3faf971.png") center / 100%;
   aspect-ratio: 6/1;
 }
